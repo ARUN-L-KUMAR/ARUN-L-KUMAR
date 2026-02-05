@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Arun+Kumar+L;AI-Augmented+Full+Stack+Developer;Building+the+Future+with+Code+%26+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Arun+Kumar;AI-Augmented+Full+Stack+Developer;Building+the+Future+with+Code+%26+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -109,7 +109,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
       <h3 align="center">Market - E-Commerce Platform</h3>
       <p align="center">
         <a href="https://github.com/ARUN-L-KUMAR/market" target="_blank">
-          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=market&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=market&theme=tokyonight&hide_border=true&ver=1" />
         </a>
       </p>
       <p align="center">
@@ -121,7 +121,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
       <h3 align="center">CommunityCoin - Blockchain DApp</h3>
       <p align="center">
         <a href="https://github.com/ARUN-L-KUMAR/CBT-TASK-3" target="_blank">
-          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=CBT-TASK-3&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=CBT-TASK-3&theme=tokyonight&hide_border=true&ver=1" />
         </a>
       </p>
       <p align="center">
@@ -135,7 +135,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
       <h3 align="center">Crop Disease Detection - AI/ML</h3>
       <p align="center">
         <a href="https://github.com/ARUN-L-KUMAR/AICTE-Sustainable-Agriculture" target="_blank">
-          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=AICTE-Sustainable-Agriculture&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=AICTE-Sustainable-Agriculture&theme=tokyonight&hide_border=true&ver=1" />
         </a>
       </p>
       <p align="center">
