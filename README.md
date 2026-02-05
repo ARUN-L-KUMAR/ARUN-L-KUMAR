@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/arun-l-kumar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:arunkumar582004@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://ak-live.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ARUN-L-KUMAR&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -82,21 +82,21 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARUN-L-KUMAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARUN-L-KUMAR&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-L-KUMAR&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ARUN-L-KUMAR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARUN-L-KUMAR&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -108,8 +108,8 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
     <td width="50%">
       <h3 align="center">Market - E-Commerce Platform</h3>
       <p align="center">
-        <a href="https://github.com/your-username/market" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=market&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/ARUN-L-KUMAR/market" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=market&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -120,8 +120,8 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
     <td width="50%">
       <h3 align="center">CommunityCoin - Blockchain DApp</h3>
       <p align="center">
-        <a href="https://github.com/your-username/communitycoin" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=communitycoin&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/ARUN-L-KUMAR/communitycoin" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=communitycoin&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -134,8 +134,8 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
     <td width="50%">
       <h3 align="center">Crop Disease Detection - AI/ML</h3>
       <p align="center">
-        <a href="https://github.com/your-username/crop-disease-detection" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=crop-disease-detection&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/ARUN-L-KUMAR/crop-disease-detection" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=crop-disease-detection&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -148,7 +148,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
       <p align="center">
         <a href="https://figma.com/your-farmzi-design" target="_blank">
           <img src="https://img.shields.io/badge/View_on_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        </a>
+        </a>    
       </p>
       <p align="center">
         <strong>Design System:</strong> Figma<br>
@@ -190,9 +190,9 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARUN-L-KUMAR&theme=tokyonight" />
 </p>
-
+    
 ---
 
 ## 💡 Random Dev Quote
@@ -213,10 +213,10 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
   <a href="mailto:arunkumar582004@gmail.com">
     <img src="https://img.shields.io/badge/Email-arunkumar582004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/arun-l-kumar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://ak-live.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
@@ -228,5 +228,5 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
 </p>
 
 <p align="center">
-  ⭐ From <a href="https://github.com/your-github-username">Arun Kumar L</a> | Made with ❤️ and lots of ☕
+  ⭐ From <a href="https://github.com/ARUN-L-KUMAR">Arun Kumar L</a> | Made with ❤️ and lots of ☕
 </p>
