@@ -88,7 +88,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-L-KUMAR&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ARUN_L_KUMAR&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
@@ -120,8 +120,8 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
     <td width="50%">
       <h3 align="center">CommunityCoin - Blockchain DApp</h3>
       <p align="center">
-        <a href="https://github.com/ARUN-L-KUMAR/communitycoin" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=communitycoin&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/ARUN-L-KUMAR/CBT-TASK-3" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=CBT-TASK-3&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -134,8 +134,8 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
     <td width="50%">
       <h3 align="center">Crop Disease Detection - AI/ML</h3>
       <p align="center">
-        <a href="https://github.com/ARUN-L-KUMAR/crop-disease-detection" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=crop-disease-detection&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/ARUN-L-KUMAR/AICTE-Sustainable-Agriculture" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=AICTE-Sustainable-Agriculture&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -146,7 +146,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
     <td width="50%">
       <h3 align="center">Farmzi - Agritech UI Design</h3>
       <p align="center">
-        <a href="https://figma.com/your-farmzi-design" target="_blank">
+        <a href="https://www.figma.com/files/team/1405122038109540976/project/280929433/My-Designs?fuid=1405122036138482334" target="_blank">
           <img src="https://img.shields.io/badge/View_on_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
         </a>    
       </p>
