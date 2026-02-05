@@ -92,7 +92,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARUN-L-KUMAR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy-pied-zeta.vercel.app/?username=ARUN-L-KUMAR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </p>
 
 <p align="center">
