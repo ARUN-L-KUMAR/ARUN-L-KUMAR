@@ -82,13 +82,13 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARUN-L-KUMAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-six-xi-16.vercel.app/api?username=ARUN-L-KUMAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARUN-L-KUMAR&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-L-KUMAR&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ARUN_L_KUMAR&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats-six-xi-16.vercel.app/api/top-langs/?username=ARUN-L-KUMAR&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-six-xi-16.vercel.app/api/wakatime?username=ARUN_L_KUMAR&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
       <h3 align="center">Market - E-Commerce Platform</h3>
       <p align="center">
         <a href="https://github.com/ARUN-L-KUMAR/market" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=market&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=market&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -121,7 +121,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
       <h3 align="center">CommunityCoin - Blockchain DApp</h3>
       <p align="center">
         <a href="https://github.com/ARUN-L-KUMAR/CBT-TASK-3" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=CBT-TASK-3&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=CBT-TASK-3&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -135,7 +135,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
       <h3 align="center">Crop Disease Detection - AI/ML</h3>
       <p align="center">
         <a href="https://github.com/ARUN-L-KUMAR/AICTE-Sustainable-Agriculture" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=AICTE-Sustainable-Agriculture&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats-six-xi-16.vercel.app/api/pin/?username=ARUN-L-KUMAR&repo=AICTE-Sustainable-Agriculture&theme=tokyonight&hide_border=true" />
         </a>
       </p>
       <p align="center">
