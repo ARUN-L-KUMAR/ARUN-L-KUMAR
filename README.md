@@ -146,7 +146,7 @@ Hey! I'm a passionate **AI-Augmented Full Stack Developer** who loves turning id
     <td width="50%">
       <h3 align="center">Farmzi - Agritech UI Design</h3>
       <p align="center">
-        <a href="https://www.figma.com/files/team/1405122038109540976/project/280929433/My-Designs?fuid=1405122036138482334" target="_blank">
+        <a href="https://www.figma.com/@arun_l_kumar" target="_blank">
           <img src="https://img.shields.io/badge/View_on_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
         </a>    
       </p>
